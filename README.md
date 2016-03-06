@@ -1,6 +1,9 @@
 # 
 Set custom font in your xml with the help of DataBinding.
 
+
+![http://androidgig.com/setting-custom-font-through-xml-with-databinding/](https://github.com/androidgig/FontDataBindingSample/blob/master/device-2016-03-06-185823.png)
+
 You just need to write one line of code in your xml : 
 
      app:font="@{`amatic`}"
